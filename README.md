@@ -1,4 +1,4 @@
-使用 React 套件 jest 進行測試
+# 使用 React 套件 jest 進行測試
 
 1.clone後請先輸入 yarn install 安裝套件
 
