@@ -1,6 +1,11 @@
-使用React unit test套件jest進行測試
+使用 React 套件 jest 進行測試
 
-請輸入指令 yarn test 進行單元測試
+1.clone後請先輸入 yarn install 安裝套件
+
+2.輸入指令 yarn test 進行單元測試
+
+
+
 
 
 
