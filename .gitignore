@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 /test/math.test.js
-.msth.js
+.math.js
 
 # testing
 /coverage
